@@ -1,3 +1,5 @@
+## Objective of the Project
+
  Studio practice in Fine art schools and higher Learning institutions can be modernized using current technology. 
  This will enable art institutions around the world to provide better opportunity for all. Art schools from the
  lesser privilaged countries will benifit more because this repository can help provide resources otherwise
@@ -12,12 +14,13 @@
  To begin with  the following category wise content and tool repos are proposed to be created.
 
 
-NeoStudio
+# NeoStudio
 
 Artists and art schools from around the world are finding it difficult to find life models for figure study. In some 
 nations it may a taboo too. 
 Ofcourse the emotional life of the character will be a future request. 
-Figure Study :
+
+### Figure Study :
 •	3D scan data of real people.
 o		Motion capture
 •	3D figure models cg generated.
@@ -38,7 +41,7 @@ o		Motion capture
 o	Transform by individual student: server client
 	o	Trace
 	o	Sculpt
-Study of Objects
+### Study of Objects
 •	Form
 Parametric models, Organic forms
 •	Structure
@@ -56,7 +59,7 @@ o	Transclucency
 •	Composition
 o	Artworks, Analysis
 
-Study from Nature
+### Study from Nature
 •	Elements
 o	Solid, Liquid, Gas, Plasma
 •	Forces
@@ -67,7 +70,7 @@ o	Gravity, wind, magnetism, collision, heat, flow
 •	Time
 o	Grow, transform, age, evolve, metamorphosis, mutate
 o	
-Creative Art Practice
+### Creative Art Practice
 •	Creative Painting
 		Analysis of master works
 		Tools
@@ -86,7 +89,7 @@ Creative Art Practice
 •	Performance Art  Practice
 •	Process 
  	Simulation Tool
-Ussing High Tech Tools
+### Using High Tech Tools
 	Fablab for art work
 		Vinyl cutter
 		Laser cutter
@@ -94,7 +97,7 @@ Ussing High Tech Tools
 		3D Printing
 
 
-Design
+### Design
 Advertising Design
 Type Design
 Photography
@@ -107,7 +110,7 @@ User interface Design
 Website design
 Illustration
 
-Theory
+### Theory
 	History
 	Aesthetics
 	Studio Practice
