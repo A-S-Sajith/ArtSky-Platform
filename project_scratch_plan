@@ -1,27 +1,43 @@
+ Studio practice in Fine art schools and higher Learning institutions can be modernized using current technology. 
+ This will enable art institutions around the world to provide better opportunity for all. Art schools from the
+ lesser privilaged countries will benifit more because this repository can help provide resources otherwise
+ impossible or too costly to provide.
+ Contemporary New media practice overlook the methodology of Fine Art study because of its radical nature. 
+ The aim of this project is to develop radical new methods and tools  to assist art practicioners to study human figure,
+ natural objects and phenomena, creative composition and design.
+ If Tools and methods  are already existing and accessible, and if it can be re used or developed further  for 
+ a specific purpose, it can be integrated into this project.
+ The project is thematically huge so it will need a support system. 
+ 
+ To begin with  the following category wise content and tool repos are proposed to be created.
 
 
- Artschool
+NeoStudio
+
+Artists and art schools from around the world are finding it difficult to find life models for figure study. In some 
+nations it may a taboo too. 
+Ofcourse the emotional life of the character will be a future request. 
 Figure Study :
-•	3D scan of models
-o	Motion capture
-•	3D figure models cg generated
+•	3D scan data of real people.
+o		Motion capture
+•	3D figure models cg generated.
 •	3D anatomy models
-o	Skeletal system
-o	Muscular system
+	o	Skeletal system
+	o	Muscular system
 •	Photographs
-o	Volume photography
-o	Photograph of Life models
+	o	Volume photography
+	o	Photograph of Life models
 •	Art works
 •	Technical Analysis
 •	Software
-	Modelling
-o	Motion testing
- 	Class room projection
-o	Timed rapid sketching
-o	Auto rotate
+		Modelling
+	o	Motion testing
+ 	 Projection in studio.
+	o	for Timed rapid sketching
+	o	Auto rotate
 o	Transform by individual student: server client
-o	Trace
-o	Sculpt
+	o	Trace
+	o	Sculpt
 Study of Objects
 •	Form
 Parametric models, Organic forms
@@ -70,11 +86,13 @@ Creative Art Practice
 •	Performance Art  Practice
 •	Process 
  	Simulation Tool
+Ussing High Tech Tools
+	Fablab for art work
+		Vinyl cutter
+		Laser cutter
+		CNC machine
+		3D Printing
 
-
-Theory
-History
-Aesthetics
 
 Design
 Advertising Design
@@ -89,6 +107,10 @@ User interface Design
 Website design
 Illustration
 
+Theory
+	History
+	Aesthetics
+	Studio Practice
 
 
 
