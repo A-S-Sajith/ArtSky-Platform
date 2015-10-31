@@ -1,2 +1,2 @@
 # NEOSTUDIO
-A  new age Fine art space to develop and propagate  new pedagogical methods and tools for Fine Art studio practice.
+A  new age Fine art project to develop and propagate  new pedagogical methods and tools for professional Fine Art studio practice.
